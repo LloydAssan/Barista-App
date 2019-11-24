@@ -1,3 +1,7 @@
+# Barista APP
+
+![alt tag](coffeeShopSS.png)
+
 ## Installation
 
 1. Clone repo
