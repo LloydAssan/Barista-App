@@ -1,6 +1,6 @@
 # Barista APP
 
-![alt tag](coffeeShopSS.png)
+![alt tag](coffeeshopSS.png)
 
 ## Installation
 
